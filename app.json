@@ -1,11 +1,12 @@
+
 {
-    "name": "Alexa",
-    "description": "WhatsAlexa is a Helper WhatsApp Bot Written with Baileys Which is hosted on Heroku Cloud Server. Also Alexa has a Lot of Commands/Features, Including Artificial Intelligence [ AI ] Features/Commands.",
-    "logo": "https://i.ibb.co/KGMms2Z/Whats-Alexa.jpg",
-    "keywords": ["whatsapp", "userbot", "Alexa", "WhatsAlexa", "bot", "api", "ai"],
-    "repository": "https://github.com/TOXIC-DEVIL/WhatsAlexa",
-    "website":   "https://toxic-devil.github.io",
-    "success_url": "https://toxic-devil.github.io",
+    "name": "Lusifar",
+    "description": "Lusifar is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+    "logo": "https://i.ibb.co/PcBrtKd/amalser.jpg",
+    "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
+    "repository": "https://github.com/lkruwan/lusiyatabota",
+    "website":   "https://github.com/lkruwan/lusiyatabota",
+    "success_url": "https://github.com/lkruwan/lusiyatabota",
     "stack": "container",
     "env": {
         "ALEXA_SESSION": {
